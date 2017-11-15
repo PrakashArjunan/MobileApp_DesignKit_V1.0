@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "02BC576D-904A-464F-9C7C-6F69B860DEA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 3628,
+    "x": 0,
+    "y": -124
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "93660655-D8D1-4FF5-8F07-3657E39C07AA"
+    },
+    {
+      "class": "text",
+      "id": "EBFB0834-B6F6-46C7-9927-FB93D19D636E"
+    },
+    {
+      "class": "text",
+      "id": "81ADCE85-8BF7-405E-9391-508C00F9938C"
+    },
+    {
+      "class": "text",
+      "id": "7F51CBE0-5358-4D38-BD2E-5CEF54CF02EC"
+    },
+    {
+      "class": "text",
+      "id": "EBC5BB8E-6FF6-4938-835E-79B4297D9FD1"
+    },
+    {
+      "class": "text",
+      "id": "9F1E46C1-D416-429E-8C67-F23DBE7521B5"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
