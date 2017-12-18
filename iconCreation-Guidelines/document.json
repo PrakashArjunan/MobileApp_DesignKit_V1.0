@@ -25,6 +25,12 @@
     "objects": [
     ]
   },
+  "meta": {
+    "appVersion": "48",
+    "build": 47142,
+    "commit": "aff2e429aee2d0946e7af585623bc8caf2836778",
+    "version": 97
+  },
   "pages": [
     "Page 1",
     "Page 2"
