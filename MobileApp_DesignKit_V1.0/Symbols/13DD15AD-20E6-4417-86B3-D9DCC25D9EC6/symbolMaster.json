@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 263,
+  "changeIdentifier": 1122,
   "do_objectID": "13DD15AD-20E6-4417-86B3-D9DCC25D9EC6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
+    "height": 20,
+    "width": 20,
     "x": 2900,
     "y": 372
   },
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "10C87FED-D9FC-4EA4-871C-8D9BE74A1865"
     }
   ],
-  "name": "global / icons / 24 / pen",
+  "name": "global / icons / 20 / pen",
   "nameIsFixed": true,
   "originalObjectID": "13DD15AD-20E6-4417-86B3-D9DCC25D9EC6",
   "resizesContent": false,

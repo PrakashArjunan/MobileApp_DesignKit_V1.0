@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 0,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -46,8 +55,8 @@
       "id": "4AD4A73B-4032-40F9-9E2E-AF565DD4740B"
     }
   ],
-  "name": "Desktop HD Copy",
-  "nameIsFixed": false,
+  "name": "Icon Creation Guideline",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

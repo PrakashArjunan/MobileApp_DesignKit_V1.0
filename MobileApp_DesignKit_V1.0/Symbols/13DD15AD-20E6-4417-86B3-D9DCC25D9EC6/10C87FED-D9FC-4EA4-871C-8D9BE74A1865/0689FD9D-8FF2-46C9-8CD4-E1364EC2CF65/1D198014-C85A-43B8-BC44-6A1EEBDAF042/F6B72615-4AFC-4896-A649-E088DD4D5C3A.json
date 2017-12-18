@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 11,
-    "width": 11,
-    "x": 0.9999999999988203,
+    "height": 14,
+    "width": 14,
+    "x": 1.999999999998636,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -35,42 +35,42 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.7483811285846439, 0}",
+        "curveFrom": "{0.80229945817364856, 0}",
         "curveMode": 1,
-        "curveTo": "{0.7483811285846439, 0}",
+        "curveTo": "{0.80229945817364856, 0}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.72727272727272729, 0}"
+        "point": "{0.78571428571428581, 0}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0, 0.7483811285846439}",
+        "curveFrom": "{0, 0.80229945817364878}",
         "curveMode": 1,
-        "curveTo": "{0, 0.7483811285846439}",
+        "curveTo": "{0, 0.80229945817364878}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0, 0.72727272727272729}"
+        "point": "{0, 0.7857142857142857}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.25161887141535616, 1}",
+        "curveFrom": "{0.19770054182635136, 1}",
         "curveMode": 1,
-        "curveTo": "{0.25161887141535616, 1}",
+        "curveTo": "{0.19770054182635136, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.27272727272727271, 1}"
+        "point": "{0.21428571428571427, 1}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{1, 0.25161887141535616}",
+        "curveFrom": "{1, 0.19770054182635124}",
         "curveMode": 1,
-        "curveTo": "{1, 0.25161887141535616}",
+        "curveTo": "{1, 0.19770054182635124}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 0.27272727272727271}"
+        "point": "{1, 0.2142857142857143}"
       }
     ]
   },
